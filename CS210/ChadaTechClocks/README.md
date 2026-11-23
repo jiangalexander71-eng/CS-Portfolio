@@ -1,4 +1,3 @@
-#ChadaTechClocks
 This program is a console based dual-clock application that is written in C++. It prompts the user for an initial time, validates the time within a standard 24 hour clock, then displays the time in both 12 and 24-hour format. Then there is a menu that allows the user to adjust the time, until the user decides to exit. 
 
 One thing I felt I did well is maximize the use of functions while minimizing the repeating code. I have tended to have a lot of duplicate code in my previous programs that worked but were complicated to write and weren't efficient at all. By purposefully using functions, my code is a lot cleaner, readable, and easier to adapt in the future. 
